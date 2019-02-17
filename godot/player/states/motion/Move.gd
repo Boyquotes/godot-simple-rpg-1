@@ -49,6 +49,9 @@ func update_animation(motion : Vector2) -> void:
 		animation = "walk_up"
 	elif motion.y > 0:
 		animation = "walk_down"
+		
+	if animation == '':
+		return
 
 	var animation_player : AnimationPlayer = owner.get_node("AnimationPlayer")
 	if animation_player.current_animation != animation:
