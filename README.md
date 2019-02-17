@@ -1,5 +1,7 @@
 # Simple 2D RPG
 
+<div style="text-align:center"><img src="godot-simple-rpg.png"></div>
+
 This is a very simple and modest 2D RPG created with Godot Engine.
 
 > This project uses the Godot Engine 3.1
