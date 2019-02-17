@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.2" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="16" tileheight="16" infinite="0" nextlayerid="6" nextobjectid="1">
+ <tileset firstgid="1" source="../tilesets/overworld.tsx"/>
+ <layer id="1" name="Water" width="100" height="100" locked="1">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMA6C9x/rnHDyHgr2kqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqrqH4webQ0=
+  </data>
+ </layer>
+ <layer id="2" name="Ground" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt12FOwjAAhuFyDrPTIKfR22h2UfW/a9zCHBSHtLay50n6F7TvvkVDAAAAAAAAAACA2zztQnjelfncx/GU+Px71Q139ZD5vmKLw3D68ex1Wa0b7yvnXXWzFv2iiyaXdYtnePkcz987a88h0aMvsMV7c+5Z3q+8298cG7ks9W4peWwkrUYPG0mr0UOTtFo9NDmvZg9NTtXuMTXx/+KXFnrocvQy/O4foX6L+dn638MtbWTaiY3U72AjR61tZOs9WtrI2/BzvG68R9RCEy2+q/ne0uJUrY1okRabvIe/6RI7xO/S4melt2IT18u9lWkPNnGbHF3sIb9r32H2UN60lTVHAwAAAAAAAAAAAAAAAAAAAAAAAACA/+MTdkOkPA==
+  </data>
+ </layer>
+ <layer id="3" name="Details" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2blNw2AYgGGDEnEV7AADcDW00FJBwzUGFTRcQ0Am4BIbIAEjwApEAkaAig8JS04U4gRygZ9HehUpTvHLn+z8TpIEAAAAAAAAAACgdTdD/V4BqSezAAbESDQajUXj0UR/l/PvLLV5v5+JZqO5aD5a6PySCq1+L3RSSpLTqFJq/Pn1aCPajLai7Wgqc/w0qnRhnUVQjVk8fr2mbmMOd9H9N/PYjw6iw+goOo6mM8fvovtuLLaAPq+NxXLzeZxF59FFdBldRSs9W2FxZGfRbB70Rnqf+mwy5vLaYB5vw0ly/dX7cP77/Nxtziw6per5vSV53+Od8pD4fasVzzGHl1L+tbH8g3OZ7qHr99F+6/qdds5fdgb2Cf2X3R9kM4/u2Mk5nt7/6uvmXqFIVsu17UW7ddE7a+Xa9hoEMOg8cw+Odv/PAgAAAAAAAAAAAAAAAAAAAAAAAAAA+Cs+AHA0TL8=
+  </data>
+ </layer>
+</map>

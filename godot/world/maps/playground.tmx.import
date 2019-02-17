@@ -1,0 +1,22 @@
+[remap]
+
+importer="vnen.tiled_importer"
+type="PackedScene"
+path="res://.import/playground.tmx-a8271da66ca90c1a9d975d240ca00703.scn"
+
+[deps]
+
+source_file="res://world/maps/playground.tmx"
+dest_files=[ "res://.import/playground.tmx-a8271da66ca90c1a9d975d240ca00703.scn" ]
+
+[params]
+
+custom_properties=true
+tile_metadata=false
+uv_clip=true
+image_flags=7
+collision_layer=1
+embed_internal_images=false
+save_tiled_properties=false
+add_background=true
+post_import_script=""
