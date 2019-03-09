@@ -1,10 +1,17 @@
-# Simple 2D RPG
+<p align="center">
+  <img src="godot-simple-rpg.png">
+</p>
 
-<div style="text-align:center"><img src="godot-simple-rpg.png"></div>
+# Introduction
 
-This is a very simple and modest 2D RPG created with Godot Engine.
+This is a very simple and modest 2D RPG created with Godot Engine, designed to be a Zelda-like game, but that could add more elements.
 
-> This project uses the Godot Engine 3.1
+All the concepts here have as main goal to be flexible and allow others to design they own games.
+
+If you have any suggestion, any feature request, please, open an issue or join us at [Discord](https://discord.gg/25yBgEZ).
+
+
+> *Important*: This project uses the Godot Engine 3.1, that [you can download here](https://hugo.pro/projects/godot-builds/). 
 
 # Contributing
 
