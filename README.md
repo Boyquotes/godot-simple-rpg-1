@@ -6,7 +6,13 @@ This is a very simple and modest 2D RPG created with Godot Engine.
 
 > This project uses the Godot Engine 3.1
 
-# Contributing Guidelines
+# Contributing
+
+## Join us at Discord
+
+https://discord.gg/25yBgEZ
+
+## Guidelines
 
 This is an open source project, so all contributors are welcome. For better productivity and communication, we have some community principles that you should be aware of.
 
